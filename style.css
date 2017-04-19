@@ -163,6 +163,7 @@ a.rm, a.com {
 	padding-left:25px;
 }
 .sidebar {
+	margin-top:-430px;
 	padding:0;
 	float:left;
 	width:280px;
@@ -369,4 +370,16 @@ ol li .send {
 	width:100%;
 	font-size:0;
 	line-height:0;
+}
+.Prediction{
+	margin-left: 300px;
+	color: black;
+	font-size: 200%;
+}
+.p1{
+	margin-Bottom:20px;
+	margin-top:20px;
+    margin-left: 300px;
+	color: black;	
+	font-size: 125%;
 }
